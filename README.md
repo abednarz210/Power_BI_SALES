@@ -35,13 +35,14 @@
 
 ### Outcomes
 
-* Adding Visualizations to Reports and Dashboards:
-Implemented various visualization types (bar charts, line graphs, etc.) to simplify complex data, ensuring the right visual is chosen to match the data's story.
+* Adding Visualizations to Reports and Dashboards
+  
+Utilized various visualization types (bar charts, line graphs, etc.) to break down complex data, ensuring each visual effectively conveyed the data's narrative. Additionally, implemented time series analysis to identify trends and forecast future consumer behavior.
 
-* Designing Accessible Reports and Dashboards:
+* Designing Accessible Reports and Dashboards
 Focused on accessibility by incorporating high-contrast colors, text alternatives, and keyboard navigation, enhancing usability for all users.
 
-* Using Visualizations for Data Analysis:
+* Using Visualizations for Data Analysis
 Leveraged visualizations to identify trends, correlations, and outliers, using interactive elements like filters for deeper data exploration.
 
 ### Conclusion
