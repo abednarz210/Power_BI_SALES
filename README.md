@@ -37,7 +37,8 @@
 
 * Adding Visualizations to Reports and Dashboards
   
-Utilized various visualization types (bar charts, line graphs, etc.) to break down complex data, ensuring each visual effectively conveyed the data's narrative. Additionally, implemented time series analysis to identify trends and forecast future consumer behavior.
+* Utilized various visualization types (bar charts, line graphs, etc.) to break down complex data, ensuring each visual effectively conveyed the data's narrative. Additionally, 
+implemented time series analysis to identify trends and forecast future consumer behavior.
 
 * Designing Accessible Reports and Dashboards
 Focused on accessibility by incorporating high-contrast colors, text alternatives, and keyboard navigation, enhancing usability for all users.
