@@ -5,7 +5,7 @@
 ## Citibike September 2021, Q3 
 
 
-![image](resourcesTableau/Population%20and%20Ridership.png)
+![image](PWRBI_RR/Dashboard1 .png)
 
 ### Population 
 
