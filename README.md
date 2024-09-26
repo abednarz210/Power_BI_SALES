@@ -32,10 +32,18 @@
 * Render Report to visualize findings
 
 
-### Considerations
 
+### Outcomes
 
+* Adding Visualizations to Reports and Dashboards:
+Implemented various visualization types (bar charts, line graphs, etc.) to simplify complex data, ensuring the right visual is chosen to match the data's story.
 
+* Designing Accessible Reports and Dashboards:
+Focused on accessibility by incorporating high-contrast colors, text alternatives, and keyboard navigation, enhancing usability for all users.
 
+* Using Visualizations for Data Analysis:
+Leveraged visualizations to identify trends, correlations, and outliers, using interactive elements like filters for deeper data exploration.
 
+### Conclusion
 
+Visualizations are key for turning complex data into actionable insights. Accessible, well-designed dashboards make data exploration easier for a broader audience, emphasizing both technical proficiency and user experience
