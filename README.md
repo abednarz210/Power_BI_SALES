@@ -1,6 +1,6 @@
-# Adventure Works Dashboard
+## Adventure Works Dashboard
 
-# Power  Bi 
+### Power  Bi 
 
 ![alt text](https://th.bing.com/th/id/OIP.perUvYXHjEagQZb1opY7JAAAAA?rs=1&pid=ImgDetMain))
 
@@ -30,7 +30,7 @@
 
 * The dataset is a fictitious dataset based on global sales data for Adventure Works.
 * It focuses on total sales across four main categories: Bikes, Clothing, Accessories, and Components.
-* The data covers the time period from 2017 through 2020.
+* The data covers the period from 2017 through 2020.
 * The dataset includes information on salespeople, products, and geographic locations, and can be drilled down to the quarterly level for more detailed analysis.
 
 
