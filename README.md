@@ -1,5 +1,9 @@
 # Adventure Works Dashboard
 
+# Power  Bi 
+
+![alt text](https://th.bing.com/th/id/OIP.perUvYXHjEagQZb1opY7JAAAAA?rs=1&pid=ImgDetMain))
+
 ### Task 
 
 * Import Dataset into Power BI
@@ -11,10 +15,6 @@
 * Render report to visualize findings
 * Share the Dashboard to the Power Bi Service
 * Optimize for viewing for mobile screens 
-
-# Power  Bi 
-
-![alt text](https://th.bing.com/th/id/OIP.perUvYXHjEagQZb1opY7JAAAAA?rs=1&pid=ImgDetMain))
 
 
 ![Image of World Hapiness](https://github.com/abednarz210/Power_BI_SALES/blob/main/PWRBI_RR/Sales_By%20Category.png))
