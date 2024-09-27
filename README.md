@@ -3,12 +3,12 @@
 ### Task 
 
 * Import Dataset into Power BI
-* Transform Data for optimal analysis
-* Create New Columns to enhance insights
-* Update Field Types for accuracy
-* Establish Naming Conventions for Applied Steps
-* Create Measures to perform calculations
-* Render Report to visualize findings
+* Transform data set for optimal analysis
+* Create new columns to enhance insights
+* Update field types for accuracy
+* Establish naming conventions for applied steps
+* Create measures to perform calculations
+* Render report to visualize findings
 
 # Power  Bi 
 ![alt text](https://th.bing.com/th/id/OIP.perUvYXHjEagQZb1opY7JAAAAA?rs=1&pid=ImgDetMain))
