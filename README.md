@@ -45,6 +45,4 @@
 
 ## Conclusion 
 
-This dataset, based on fictitious global sales for Adventure Works, covers 2017 to 2020 and focuses on sales in Bikes, Clothing, Accessories, and Components. Key findings include a huge sales spike from 2017 to 2018 (+86.15%), a more gradual rise in 2019 (+10.00%), followed by a sharp decline in 2020 (-50.26%), likely due to the pandemic. The Bikes category had the highest sales, and Jillian Carson stood out with a 2,222% increase, far surpassing her sales goal.
-
-
+This dataset, based on fictitious global sales for Adventure Works, covers 2017 to 2020 and focuses on sales in Bikes, Clothing, Accessories, and Components. Key findings include a huge sales spike from 2017 to 2018 (+86.15%), a more gradual rise in 2019 (+10.00%), followed by a sharp decline in 2020 (-50.26%), likely due to the pandemic. Although the Bikes category had the highest sales, it ranked the lowest in profitability. Although the Bikes category had the highest sales, it ranked the lowest in profitability. Jillian Carson stood out with an impressive 2,222% increase, significantly surpassing her sales goal.
