@@ -38,8 +38,8 @@
 
 * From 2017 to 2018, sales skyrocketed by +86.15%.
 * From 2018 to 2019, we saw a steadier increase of +10.00%.
-* However, from 2019 to 2020, sales took a dive by -50.26%, likely due to the global pandemic and lockdowns, which significantly impacted sales.
-* The highest-grossing category was Bikes.
+* However, when comparing total sales in 2019 to 2020, there was a sharp 50.26% decrease, likely due to the global pandemic and lockdowns, which significantly impacted overall revenue.
+* Interestingly, while Bikes had the highest gross sales, it was the least profitable category, highlighting a gap between revenue and profitability.
 * Top 3 salespeople: Tsvi Reiter, Michael Blythe, and Jillian Carson.
 * Notably, Jillian Carson exceeded her quarterly sales goal by 17.18K, marking a whopping 2,222% increase in total sales for her category.
 
